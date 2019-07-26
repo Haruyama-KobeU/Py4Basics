@@ -11,6 +11,7 @@
 
 ### 内容
 * Part I: `Python`について
+  1. [ツールの設定](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/0_Preparations.ipynb)
   1. [Pythonの基本](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/1_Python_Basics.ipynb)
   1. [NumPy](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/2_NumPy.ipynb)
   1. [pandas](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/3_Pandas.ipynb)
