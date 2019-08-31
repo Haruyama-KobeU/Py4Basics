@@ -17,7 +17,7 @@
   1. [pandas](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/3_Pandas.ipynb)
   1. [matplotlib](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/4_Matplotlib.ipynb)
   1. [scipy.stats](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/5_SciPy_stats.ipynb)
-* Part II: `Python`を使った計量経済分析 (ゼミ生のみアクセス可)
+* Part II: `Python`を使った計量経済分析 (Access for students in class only)
   1. [統計学の簡単な復習](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/6_Review_of_Statistics.ipynb)
   1. [単回帰分析](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/7_Simple_Regression.ipynb)
   1. [重回帰分析](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/8_Multiple_Regression.ipynb)
