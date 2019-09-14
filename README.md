@@ -59,7 +59,8 @@
 * 授業では[Github](https://github.com)を使用する。
   * [git](https://git-scm.com)
   * [参考リンク１](https://happygitwithr.com/install-git.html)
-  * [参考リンク２](https://qiita.com/nnahito/items/565f8755e70c51532459)
+  * [参考リンク２](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)
+  * [参考リンク３](https://qiita.com/nnahito/items/565f8755e70c51532459)
 * 毎回ゼミ終了後に作成・修正したJupyter Notebookをgithubにuploadすること。
 
 ### [DataCamp](https://www.datacamp.com)について
