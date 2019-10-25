@@ -11,12 +11,12 @@
 
 ### 内容
 * Part I: `Python`について
-  1. [ツールの設定](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/0_Preparations.ipynb)
-  1. [Pythonの基本](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/1_Python_Basics.ipynb)
-  1. [NumPy](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/2_NumPy.ipynb)
-  1. [pandas](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/3_Pandas.ipynb)
-  1. [matplotlib](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/4_Matplotlib.ipynb)
-  1. [scipy.stats](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/5_SciPy_stats.ipynb)
+  1. [ツールの設定](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/0_Preparations.ipynb)
+  1. [Pythonの基本](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/1_Python_Basics.ipynb)
+  1. [NumPy](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/2_NumPy.ipynb)
+  1. [pandas](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/3_Pandas.ipynb)
+  1. [matplotlib](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/4_Matplotlib.ipynb)
+  1. [scipy.stats](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/5_SciPy_stats.ipynb)
 * Part II: `Python`を使った計量経済分析 (Access for students in class only)
   1. [統計学の簡単な復習](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/6_Review_of_Statistics.ipynb)
   1. [単回帰分析](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/7_Simple_Regression.ipynb)
@@ -34,9 +34,9 @@
   1. [離散選択モデル](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/19_LogitProbit.ipynb)
   1. [制限従属変数モデル](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/20_TobitHeckit.ipynb)
 * Part III: 番外編
-  1. [Gapminderのデータを使って](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/Gapminder.ipynb)
+  1. [Gapminderのデータを使って](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/Gapminder.ipynb)
       * [Gapminderのサイト](https://www.gapminder.org)
-  1. [記述統計とグラフ](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/Descriptive_stats_vs_Graphs.ipynb)
+  1. [記述統計とグラフ](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/Descriptive_stats_vs_Graphs.ipynb)
 
 ### 参考書
 * `Python`の参考書
@@ -54,6 +54,7 @@
   * [wooldridge](https://pypi.org/project/wooldridge/)
   * [lmdiag](https://pypi.org/project/lmdiag/)
   * [see](https://pypi.org/project/see/)
+  * 使い方：`pip install --user バッケージ名`
 
 ### `Github`について
 * 授業では[Github](https://github.com)を使用する。
@@ -62,6 +63,15 @@
   * [参考リンク２](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)
   * [参考リンク３](https://qiita.com/nnahito/items/565f8755e70c51532459)
 * 毎回ゼミ終了後に作成・修正したJupyter Notebookをgithubにuploadすること。
+
+### `Terminal`について
+* 使い方についての日英対訳
+  * 英語：[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+  * 日本語：[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md)
+* `Finder`からカレント・デイレクトリを指定して`Terminal`を開くアプリ
+  * [cd to...](https://github.com/jbtule/cdto)
+* `Shell`のコマンドを説明してくれるサイト（英語）
+  * [ExplainShell.com](https://explainshell.com)
 
 ### [DataCamp](https://www.datacamp.com)について
 * このサービスを使い宿題をだします。
