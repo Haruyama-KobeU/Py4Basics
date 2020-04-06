@@ -63,7 +63,7 @@
   * [参考リンク１](https://happygitwithr.com/install-git.html)
   * [参考リンク２](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)
   * [参考リンク３](https://qiita.com/nnahito/items/565f8755e70c51532459)
-* 毎回ゼミ終了後に作成・修正したJupyter Notebookをgithubにuploadすること。
+* 毎回ゼミ終了後に作成・修正したJupyter NotebookをGitHubにuploadすること。
 
 ### `Terminal`について
 * 使い方についての日英対訳
