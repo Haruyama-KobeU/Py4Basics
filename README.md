@@ -55,7 +55,7 @@
   * [wooldridge](https://pypi.org/project/wooldridge/)
   * [lmdiag](https://pypi.org/project/lmdiag/)
   * [see](https://pypi.org/project/see/)
-  * 使い方：`pip install --user バッケージ名`
+  * 使い方：`pip install バッケージ名`
 
 ### `Github`について
 * 授業では[Github](https://github.com)を使用する。
