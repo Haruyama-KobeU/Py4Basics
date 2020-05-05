@@ -36,7 +36,7 @@
   1. [GM仮定４が満たされない場合](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/18_Zero_Conditional_Mean_blank.ipynb)
   1. [操作変数法と２段階OLS](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/19_IV2SLS_blank.ipynb)
   1. [離散選択モデル](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/20_LogitProbit_blank.ipynb)
-  1. [制限従属変数モデル](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/21_TobitHeckit_blank.ipynb)
+  1. [制限従属変数モデル](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/21_TruncregTobitHeckit_blank.ipynb)
 * Part III: 番外編
   1. [Gapminderのデータを使って](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/Gapminder_blank.ipynb)
       * [Gapminderのサイト](https://www.gapminder.org)
