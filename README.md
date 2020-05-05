@@ -9,15 +9,18 @@
 （注意）
 授業の目的は`Python`の使い方を学ぶことであり，計量経済学については各自復習すること。
 
+### 教科書
+[Pythonで学ぶ入門計量経済学](https://haruyama-kobeu.github.io/book_etrics/docs/introduction.html)
+
 ### 内容
 * Part I: `Python`について
-  1. [ツールの設定](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/0_Preparations.ipynb)
-  1. [Pythonの基本](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/1_Python_Basics.ipynb)
-  1. [NumPy](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/2_NumPy.ipynb)
-  1. [pandas](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/3_Pandas.ipynb)
-  1. [matplotlib](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/4_Matplotlib.ipynb)
-  1. [scipy.stats](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/5_SciPy_stats.ipynb)
-  1. [Python使用上のTipsと注意点](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/6_things_to_note.ipynb)
+  1. [ツールの設定](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/0_Preparations_blank.ipynb)
+  1. [Pythonの基本](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/1_Python_Basics_blank.ipynb)
+  1. [NumPy](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/2_NumPy_blank.ipynb)
+  1. [pandas](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/3_Pandas_blank.ipynb)
+  1. [matplotlib](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/4_Matplotlib_blank.ipynb)
+  1. [scipy.stats](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/5_SciPy_stats_blank.ipynb)
+  1. [Python使用上のTipsと注意点](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/6_things_to_note_blank.ipynb)
 * Part II: `Python`を使った計量経済分析 (Access for students in class only)
   1. [統計学の簡単な復習](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/7_Review_of_Statistics.ipynb)
   1. [単回帰分析](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/8_Simple_Regression.ipynb)
@@ -35,9 +38,9 @@
   1. [離散選択モデル](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/20_LogitProbit.ipynb)
   1. [制限従属変数モデル](https://github.com/Haruyama-KobeU/Py4Etrics/blob/master/21_TobitHeckit.ipynb)
 * Part III: 番外編
-  1. [Gapminderのデータを使って](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/Gapminder.ipynb)
+  1. [Gapminderのデータを使って](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/Gapminder_blank.ipynb)
       * [Gapminderのサイト](https://www.gapminder.org)
-  1. [記述統計とグラフ](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/Descriptive_stats_vs_Graphs.ipynb)
+  1. [記述統計とグラフ](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/Descriptive_stats_vs_Graphs_blank.ipynb)
 
 ### 参考書
 * `Python`の参考書
@@ -78,3 +81,9 @@
 * このサービスを使い宿題をだします。
 * Subscription Feeを支払う必要はありません。
 * この[リンク](https://haruyama-kobeu.github.io/#DataCamp)を参考にして自習に役立ててください。
+
+### オープン・データ
+* [地域経済分析システム](https://resas.go.jp/)
+* [data.gov](https://www.data.gov)
+* [DBpedia](https://wiki.dbpedia.org)
+* [figshare](https://figshare.com)
