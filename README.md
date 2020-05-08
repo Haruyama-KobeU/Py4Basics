@@ -10,7 +10,7 @@
 授業の目的は`Python`の使い方を学ぶことであり，計量経済学については各自復習すること。
 
 ### 教科書
-[Pythonで学ぶ入門計量経済学](https://haruyama-kobeu.github.io/book_etrics/docs/introduction.html)
+[Pythonで学ぶ入門計量経済学](https://haruyama-kobeu.github.io/book_etrics/docs/index.html)
 
 ### 内容
 * Part I: `Python`について
