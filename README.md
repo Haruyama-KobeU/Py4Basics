@@ -6,15 +6,18 @@
 * 初歩的な`Python`の使い方を学ぶ。
 * 計量分析のための`Python`の使い方を学ぶ。
 
-（注意）
+（注意１）
 授業の目的は`Python`の使い方を学ぶことであり，計量経済学については各自復習すること。
+
+**（注意２）
+このレポの`.ipynb`ファイルは，コードが書けるようにコード・セルは空白になっている。授業中にコードを書くことができるように授業前にダウンロードし，Jupyter Notebookを起動しファイルを読み込んで準備すること。
 
 ### 教科書
 [Pythonで学ぶ入門計量経済学](https://haruyama-kobeu.github.io/book_etrics/docs/index.html)
 
 ### 内容
 * Part I: `Python`について
-  1. [ツールの設定](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/0_Preparations_blank.ipynb)
+  1. [ツールの設定](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/0_Preparations.md)
   1. [Pythonの基本](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/1_Python_Basics_blank.ipynb)
   1. [NumPy](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/2_NumPy_blank.ipynb)
   1. [pandas](https://nbviewer.jupyter.org/github/Haruyama-KobeU/Py4Basics/blob/master/3_Pandas_blank.ipynb)
