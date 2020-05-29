@@ -13,7 +13,7 @@
 * コード・セルを実行した結果は[教科書](https://haruyama-kobeu.github.io/book_etrics/docs/index.html)で確認することがきる。
 
 ### 教科書
-[Pythonで学ぶ入門計量経済学](https://haruyama-kobeu.github.io/book_etrics/docs/index.html)
+[Pythonで学ぶ入門計量経済学](https://haruyama-kobeu.github.io/book_etrics/docs/index.html) &nbsp; ← ← ← ← ←  &nbsp;:snake:+:chart_with_upwards_trend:
 
 ### 内容
 * Part I: `Python`について
