@@ -10,10 +10,10 @@
 
 * 授業の目的は`Python`の使い方を学ぶことであり，計量経済学については各自復習すること。
 * このレポの`.ipynb`ファイルは，コードが書けるようにコード・セルは空白になっている。授業中にコードを書くことができるように授業前にダウンロードし，Jupyter Notebookを起動しファイルを読み込んで準備すること。
-* コード・セルを実行した結果は「[Pythonで学ぶ入門計量経済学](https://haruyama-kobeu.github.io/book_etrics/docs/index.html)」で確認することがきる。
+* コード・セルを実行した結果は「[Pythonで学ぶ入門計量経済学](https://spring-book.github.io/py4etrics/index.html)」で確認することがきる。
 
 ### 教科書
-[Pythonで学ぶ入門計量経済学](https://haruyama-kobeu.github.io/book_etrics/docs/index.html) &nbsp; ← ← ← ← ←  &nbsp;:snake:+:chart_with_upwards_trend:
+[Pythonで学ぶ入門計量経済学](https://spring-book.github.io/py4etrics/index.html) &nbsp; ← ← ← ← ←  &nbsp;:snake:+:chart_with_upwards_trend:
 
 ### 内容
 * Part I: `Python`について
@@ -86,6 +86,7 @@
 * この[リンク](https://haruyama-kobeu.github.io/#DataCamp)を参考にして自習に役立ててください。
 
 ### オープン・データ
+* [IMF Data](https://data.imf.org/?sk=388dfa60-1d26-4ade-b505-a05a558d9a42)
 * [地域経済分析システム](https://resas.go.jp/)
 * [data.gov](https://www.data.gov)
 * [DBpedia](https://wiki.dbpedia.org)
