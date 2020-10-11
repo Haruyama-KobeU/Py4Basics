@@ -48,6 +48,13 @@
 ### 参考書
 * `Python`の参考書
   * [春山ゼミのサイト](https://haruyama-kobeu.github.io/#Python)に無料のものも含めていくつか挙げているが，個人的には[Python for Data Analysis](https://op.lib.kobe-u.ac.jp/opac/opac_search/?lang=0&amode=2&cmode=0&smode=0&kywd=Python+for+Data+Analysis)が分かりやすい。
+  * 日本の「東西横綱大学」が出している参考書も話題にあがっている。
+        * 東京大学：
+            * [Pythonプログラミング入門 (html版)] (https://utokyo-ipp.github.io)
+            * [Pythonプログラミング入門 (pdf版)](https://utokyo-ipp.github.io/IPP_textbook.pdf)
+        * 京都大学：
+            * [プログラミング演習 Python 2019](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/245698/1/Version2020_02_13_01.pdf)
+            * [プログラミング演習 Python 2019( コラム編 )](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/245698/2/Version2020_02_13_02.pdf)
 * 計量経済学の参考書
   * [Introductory Econometrics: A Modern Approach, by J.M. Wooldridge](https://op.lib.kobe-u.ac.jp/opac/opac_search/?lang=0&amode=2&cmode=0&smode=0&kywd=Introductory+Econometrics%3A+A+Modern+Approach) (古い版でもOK)
   * 授業ではこの本で扱われているデータを使う。
