@@ -73,9 +73,11 @@
 ### `Github`について
 * 授業では[Github](https://github.com)を使用する。
   * [git](https://git-scm.com)
-  * [参考リンク１](https://happygitwithr.com/install-git.html)
-  * [参考リンク２](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)
-  * [参考リンク３](https://qiita.com/nnahito/items/565f8755e70c51532459)
+  * [参考リンク１](https://happygitwithr.com/install-git.html)（英語）
+  * [参考リンク２](https://gitimmersion.com)（英語）
+  * [参考リンク３](https://learngitbranching.js.org/)（Web上で練習できる）
+  * [参考リンク４](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)（日本語）
+  * [参考リンク５](https://qiita.com/nnahito/items/565f8755e70c51532459)（日本語）
 * 毎回ゼミ終了後に作成・修正したJupyter NotebookをGitHubにuploadすること。
 
 ### `Terminal`について
