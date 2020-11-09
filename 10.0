@@ -1,0 +1,37 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/Tetsu/anaconda3/envs/latest
+
+  added / updated specs:
+    - nodejs
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    openssl-1.1.1h             |       haf1e3a3_0         2.2 MB
+    ------------------------------------------------------------
+                                           Total:         2.2 MB
+
+The following packages will be UPDATED:
+
+  ca-certificates    conda-forge::ca-certificates-2020.6.2~ --> pkgs/main::ca-certificates-2020.10.14-0
+  nodejs                       conda-forge::nodejs-6.13.1-0 --> pkgs/main::nodejs-10.13.0-h0a44026_0
+
+The following packages will be SUPERSEDED by a higher-priority channel:
+
+  certifi            conda-forge::certifi-2020.6.20-py37h2~ --> pkgs/main::certifi-2020.6.20-py37hecd8cb5_2
+  openssl                                       conda-forge --> pkgs/main
+
+
+Proceed ([y]/n)? 
+
+Downloading and Extracting Packages
+openssl-1.1.1h       | 2.2 MB    |            |   0% openssl-1.1.1h       | 2.2 MB    | 1          |   1% openssl-1.1.1h       | 2.2 MB    | ##9        |  29% openssl-1.1.1h       | 2.2 MB    | ######6    |  67% openssl-1.1.1h       | 2.2 MB    | ########## | 100% openssl-1.1.1h       | 2.2 MB    | ########## | 100% 
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
