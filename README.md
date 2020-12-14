@@ -17,7 +17,6 @@
 
 ### 内容
 * Part I: `Python`について
-  1. [ツールの設定](https://haruyama-kobeu.github.io/book_etrics/docs/0_Preparations.html)
   1. [Pythonの基本](https://haruyama-kobeu.github.io/book_etrics/docs/1_Python_Basics.html)
   1. [NumPy](https://haruyama-kobeu.github.io/book_etrics/docs/2_NumPy.html)
   1. [Pandas](https://haruyama-kobeu.github.io/book_etrics/docs/3_Pandas.html)
@@ -26,6 +25,7 @@
   1. [Python使用上のTipsと注意点](https://haruyama-kobeu.github.io/book_etrics/docs/6_things_to_note.html)
 * Part II: `Python`を使った計量経済分析
   1. [統計学の簡単な復習](https://haruyama-kobeu.github.io/book_etrics/docs/7_Review_of_Statistics.html)
+  1. [計量経済学用語]()
   1. [単回帰分析](https://haruyama-kobeu.github.io/book_etrics/docs/8_Simple_Regression.html)
   1. [重回帰分析](https://haruyama-kobeu.github.io/book_etrics/docs/9_Multiple_Regression.html)
   1. [残差分析](https://haruyama-kobeu.github.io/book_etrics/docs/10_Residuals.html)
@@ -41,9 +41,11 @@
   1. [離散選択モデル](https://haruyama-kobeu.github.io/book_etrics/docs/20_LogitProbit.html)
   1. [制限従属変数モデル](https://haruyama-kobeu.github.io/book_etrics/docs/21_TruncregTobitHeckit.html)
 * Part III: 番外編
+  1. [ツールの設定](https://haruyama-kobeu.github.io/book_etrics/docs/0_Preparations.html)
   1. [Gapminderのデータを使って](https://haruyama-kobeu.github.io/book_etrics/docs/Gapminder.html)
       * [Gapminderのサイト](https://www.gapminder.org)
   1. [記述統計とグラフ](https://haruyama-kobeu.github.io/book_etrics/docs/Descriptive_stats_vs_Graphs.html)
+  1. [成績分析](https://github.com/Haruyama-KobeU/Py4Basics/blob/master/Grade_blank.ipynb)
 
 ### 参考書
 * `Python`の参考書
