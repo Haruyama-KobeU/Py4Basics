@@ -32,7 +32,7 @@
   1. [推論（検定）](https://haruyama-kobeu.github.io/book_etrics/docs/11_Inference.html)
   1. [大標本特性](https://haruyama-kobeu.github.io/book_etrics/docs/12_Asymptotics.html)
   1. [質的変数と回帰分析](https://haruyama-kobeu.github.io/book_etrics/docs/13_Dummies.html)
-  1. [不均一分散](https://haruyama-kobeu.github.io/book_etrics/docs/14_Heteroskedasticity.html)
+  1. [不均一分散](https://haruyama-kobeu.github.io/book_etrics/docs/14_Hetero.html)
   1. [プーリング・データとパネル・データ](https://haruyama-kobeu.github.io/book_etrics/docs/15_Pooling.html)
   1. [linearmodels](https://haruyama-kobeu.github.io/book_etrics/docs/16_linearmodels.html)
   1. [パネル・データ分析](https://haruyama-kobeu.github.io/book_etrics/docs/17_Panel.html)
